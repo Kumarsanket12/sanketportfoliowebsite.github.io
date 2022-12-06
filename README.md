@@ -2,6 +2,7 @@
 It is a sample of Personal portfolio website using HTML, CSS, JavaScript.
 
 My Final Project of Future Ready Talent.
+#Microsoft Azure Link https://salmon-ground-070aef910.2.azurestaticapps.net
 
 #Home:
 
