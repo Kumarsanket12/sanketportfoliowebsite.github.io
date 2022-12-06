@@ -1,8 +1,7 @@
 # sanketportfoliowebsite.github.io
 It is a sample of Personal portfolio website using HTML, CSS, JavaScript.
 
-My Final Project:-
-Azure link: 
+My Final Project of Future Ready Talent.
 
 #Home:
 
