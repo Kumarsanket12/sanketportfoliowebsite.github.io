@@ -1,5 +1,7 @@
 # sanketportfoliowebsite.github.io
-It is a sample of Personal portfolio website using HTML, CSS, JavaScript.
+This is a Website based application for portfolio website.
+
+This portfolio website application has been developed for the accomplishment of Future ready talent Internship program by microsoft,Github.
 
 My Final Project of Future Ready Talent.
 #Microsoft Azure Link https://salmon-ground-070aef910.2.azurestaticapps.net
