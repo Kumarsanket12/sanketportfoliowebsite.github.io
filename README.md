@@ -1,11 +1,6 @@
 # sanketportfoliowebsite.github.io
 This is a Website based application for portfolio website.
 
-This portfolio website application has been developed for the accomplishment of Future ready talent Internship program by microsoft,Github.
-
-My Final Project of Future Ready Talent.
-#Microsoft Azure Link https://salmon-ground-070aef910.2.azurestaticapps.net
-
 #Home:
 
 ![1](https://user-images.githubusercontent.com/109533920/205966518-50dab67c-5c22-4036-b006-0e5994c02d22.jpg)
